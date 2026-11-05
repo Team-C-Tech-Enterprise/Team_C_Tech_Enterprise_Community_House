@@ -18,7 +18,7 @@ Based on our review of the current website (see `docs/Community_House_Website_Re
 ## 📅 Status
 
 *   Research and recommendations phase.
-*   Meeting with Community House: Thursday 5 November 2026, 10:00-11:00.
+*   Meeting with Community House: Thursday 5 November 2026, 10:00-11:00(postponed for now).
 
 ## 📁 Folder Structure
 
